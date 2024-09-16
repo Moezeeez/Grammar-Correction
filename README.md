@@ -1,1 +1,2 @@
 # Grammar-Correction
+The purpose of this project is to analyze and correct common English grammar errors, offering a valuable resource for language learners, educators, and NLP enthusiasts. By systematically identifying and categorizing grammatical mistakes, the project provides insights into error patterns and serves as a foundation for building more advanced language models and educational tools.
